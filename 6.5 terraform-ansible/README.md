@@ -31,3 +31,17 @@
 
 Пришлите скриншот и ссылку на сайт через форму для сдачи домашней работы. Не забудьте удалить созданные ресурсы после того, как у вас приняли ДЗ, при помощи terraform destroy -auto-approve.
 
+
+https://cloud.yandex.ru/docs/network-load-balancer/operations/load-balancer-create
+
+https://terraform-eap.website.yandexcloud.net/docs/providers/yandex/index.html
+
+https://cloud.yandex.ru/docs/cli/quickstart
+
+https://registry.tfpla.net/providers/yandex-cloud/yandex/latest/docs
+
+https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quickstart
+
+https://cloud.yandex.ru/docs/compute/operations/vm-create/create-linux-vm
+
+https://github.com/glavk/terraform-yandex-compute/blob/master/main.tf
