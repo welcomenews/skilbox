@@ -45,3 +45,7 @@ https://cloud.yandex.ru/docs/tutorials/infrastructure-management/terraform-quick
 https://cloud.yandex.ru/docs/compute/operations/vm-create/create-linux-vm
 
 https://github.com/glavk/terraform-yandex-compute/blob/master/main.tf
+
+https://www.dmosk.ru/instruktions.php?object=terraform
+
+
